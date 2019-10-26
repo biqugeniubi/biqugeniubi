@@ -1,0 +1,61 @@
+﻿.synopsisAd{font-size:14px; line-height:30px; padding:0 10px; font-weight:bold;}
+.synopsisArea {font-size:14px; overflow:hidden;}
+.synopsisArea .title{line-height:40px; text-align:center; background:#d4eaf2; height:40px; color:#375868; font-size:16px;}
+.synopsisArea_detail{position:relative; line-height:28px; padding:6px 0 6px 120px; background:#edfaff;height:145px;}
+.synopsisArea_detail img{position:absolute; left:10px; top:15px; border:1px #b4dae8 solid; width:90px; height:120px;}
+
+.synopsisArea .review{padding:10px; line-height:23px;}
+.synopsisArea .updateChapter, .synopsisArea .updateDate{padding:0 10px; line-height:35px; background:#f6fcff;}
+.synopsisArea .updateChapter{color:#d25151;}
+.synopsisArea .chapterCount{padding:0 10px; line-height:40px; text-align:center;}
+.synopsisArea .hidearea2, .synopsisArea .hidearea3, .review_hide{display:none;}
+.synopsisArea .showmore2, .synopsisArea .showmore3{float:right; font-size:14px; font-weight:bold;}
+.synopsisArea .showmore2 img, .synopsisArea .showmore3 img{width:13px; margin-bottom:-2px; margin-left:1px;}
+.bg{background:#000; opacity:0.5; height:100%; width:100%; position:fixed; z-index:10001; display:none;}
+.synopsisArea a .author, .synopsisArea a .sort{font-weight:bold;}
+
+.recommend{width:100%; clear:both;}
+.recommend h2{font-size:16px; height:40px; line-height:40px; background:#68aac2; padding:0 10px;}
+.recommend h2 a{color:#fff; text-shadow:1px 1px #2a779d;}
+.recommend .more{float:right; margin-top:-40px;}
+.directoryArea p, .directoryLink, .directoryLink a{height:40px; line-height:40px; font-size:16px;}
+.directoryArea p{height:auto;}
+.directoryArea p{padding:0 10px;}
+.directoryArea .em{background:#f6fcff;}
+.directoryArea img{margin-left:8px;}
+
+.book_txtdownload {
+    position: absolute;
+    right: 20px;
+    top: 22px;
+}
+
+    .book_txtdownload a {
+        display: block;
+        width: 60px;
+        height: 60px;
+        border: 1px solid #68aac2;
+        background: #68aac2;
+        border-radius: 60px;
+        text-align: center;
+        font-size: 14px;
+        line-height: 60px;
+        color: #fff;
+    }
+
+.synopsisArea .shrink{
+    height:60px;
+}
+
+.review .longview {
+    float: right;
+    margin: 10px 5px;
+    width: 24px;
+    height: 24px;
+    color: #68aac2;
+}
+
+.synopsisArea_detail p{
+    height:28px;
+    overflow:hidden;
+}
